@@ -2,7 +2,7 @@
 🎓 I am currently pursuing a master's degree at University of Science and Technology of China.
 <br>👯 I am looking for cooperation in study and job hunting.
 <br>🌱 I’m currently studying the area of quadruped robots.
-<br>The number of visits to this page: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdstx123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>The number of visits to this page: [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdstx123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>My website: [https://dstx123.github.io/](https://dstx123.github.io/)
 
 # 💻 Tech Stack:
